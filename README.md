@@ -2,7 +2,7 @@
 
 Hypermedia project, part 1: a single-page CV and portfolio website.
 
-- Live page:
+- Live page: https://u6103687.github.io/U6103687-Hypermedia-project-CV-website/
 
 - Figma design: https://www.figma.com/design/iblFC3FPbyKUXUhjiViCMs/CV-PMLL-U6103687?t=L1Tl2loEAOeX5pi4-0
 
